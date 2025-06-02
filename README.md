@@ -112,4 +112,3 @@ Cada figura de salida incluye:
 ---
 
 **Desarrollado por [Tzurudo](https://github.com/Tzurudo)**  
-¡Aporta mejoras, abre issues o sugiere nuevas funciones!
