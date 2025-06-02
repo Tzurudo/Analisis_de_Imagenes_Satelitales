@@ -97,8 +97,7 @@ El tipo de análisis se activa automáticamente según el nombre del archivo.
 
 ## 🖼️ Ejemplo de Análisis Generado
 
-> (Agrega aquí una imagen de ejemplo de la carpeta `Imagenes_tratadas` si lo deseas)
-
+![imgOutForestal](https://github.com/user-attachments/assets/73b89c6f-5c50-4505-bacf-ae05a12c0748)
 ---
 
 ## 📊 Interpretación de Resultados
