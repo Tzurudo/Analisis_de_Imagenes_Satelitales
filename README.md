@@ -6,7 +6,7 @@ El script principal, `Forestal.py`, automatiza el tratamiento de imágenes, la *
 
 ---
 
-## ✨ Características Principales
+## Características Principales
 
 - 🔧 **Mejora automática de imágenes:** Upscaling, suavizado, ajuste de contraste y reducción de ruido usando OpenCV.
 - 🌿 **Clasificación y análisis espectral:**
